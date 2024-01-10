@@ -52,7 +52,7 @@
     "projects": [
       {
         "id": 1,
-        "image": "",
+        "image": "https://i.postimg.cc/9Fbz2S53/Screenshot-2023-11-01-090934.png",
         "name": "Calculator",
         "description": "Calculator made with HTML and CSS",
         "github": "https://github.com/Tashreeqlee/Calculator.git",
@@ -60,7 +60,7 @@
       },
       {
         "id": 2,
-        "image": "",
+        "image": "https://i.postimg.cc/j5GnyDQY/Screenshot-2024-01-10-121133.png",
         "name": "Responsive Keyboard",
         "description": "Responsive Keyboard made with HTML and CSS.",
         "github": "https://github.com/Tashreeqlee/Keyboard.git",
@@ -68,15 +68,15 @@
       },
       {
         "id": 3,
-        "image": "",
-        "name": "E-commerce Website",
-        "description": "E-commerce website made with HTML and CSS.",
-        "github": "https://github.com/Tashreeqlee/eCommerce.git",
-        "vercel": "https://e-commerce-black-three.vercel.app/"
+        "image": "https://i.postimg.cc/3rF7PvmW/Screenshot-2024-01-10-120952.png",
+        "name": "Interest Amount Calculator",
+        "description": "Interest Amount Calculator website made with HTML and CSS.",
+        "github": "https://github.com/Tashreeqlee/Interestamount.git",
+        "vercel": "https://interestamount-virid.vercel.app/"
       },
       {
         "id": 4,
-        "image": "",
+        "image": "https://i.postimg.cc/SNhzkCn9/Screenshot-2024-01-10-092906.png",
         "name": "RGB To Hex App",
         "description": "RGB TO HEX App made using HTML,CSS and JavaScript.",
         "github": "https://github.com/Tashreeqlee/RGBtohex.git",
@@ -84,7 +84,7 @@
       },
       {
         "id": 5,
-        "image": "",
+        "image": "https://i.postimg.cc/4dYpHGGh/Screenshot-2024-01-10-093105.png",
         "name": "Minutes To Seconds App",
         "description": "Minutes to seconds app using HTML,CSS and JavaScript.",
         "github": "https://github.com/Tashreeqlee/Minutestoseconds.git",
@@ -92,7 +92,7 @@
       },
       {
         "id": 6,
-        "image": "",
+        "image": "https://i.postimg.cc/fLRBH1Nw/Screenshot-2024-01-10-120321.png",
         "name": "Area Of Triangle App",
         "description": "Area of Triangle App using HTML,CSS and JavaScript.",
         "github": "https://github.com/Tashreeqlee/areaofTriangle.git",

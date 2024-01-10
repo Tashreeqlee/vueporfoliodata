@@ -1,12 +1,146 @@
 {
-    "about" : [
-        {
-            "description" : "hi im Tash"
-        }
+    "education": [
+      {
+        "id": "1",
+        "date": "2023-Present",
+        "description": "Started at Life Choices to conquer this new journey in coding",
+        "name": "Life Choices Coding Academy"
+      },
+      {
+        "id": "2",
+        "date": "2022-Present",
+        "description": "Start my coding journey in my freetime to learn new things that interested me",
+        "name": "Free Code Camp"
+      },
+      {
+        "id": "3",
+        "date": "2015 - 2020",
+        "description": "Completed Matric in 2020 with a Bachelors Degree",
+        "name": "Alexander Sinton High School"
+      }
     ],
-    "projects" : [
-        {
-            "description" : "Hello these are the projects"
-        }
+    "experiences": [
+      {
+        "id": 1,
+        "jobTitle": "Sales Intern",
+        "company": "Hyundai",
+        "description": "Intern at Hyundai as a Sales Intern",
+        "date": "July 2021- July 2022"
+      },
+      {
+        "id": 2,
+        "jobTitle": "Parts Intern",
+        "company": "Hyundai",
+        "description": "Intern at Hyundai as a Parts Sale Intern",
+        "date": "July 2021- July 2022"
+      },
+      {
+        "id": 3,
+        "jobTitle": "Service Advisor Intern",
+        "company": "Hyundai",
+        "description": "Intern at Hyundai as a Service Advisor Intern",
+        "date": "July 2021- July 2022"
+      },
+      {
+        "id": 4,
+        "jobTitle": "Events Manager Assistant",
+        "company": "Radisson Red",
+        "description": "Assisting manager handle big events",
+        "date": "December 2023 - Present"
+      }
+    ],
+    "projects": [
+      {
+        "id": 1,
+        "image": "",
+        "name": "Calculator",
+        "description": "Calculator made with HTML and CSS",
+        "github": "https://github.com/Tashreeqlee/Calculator.git",
+        "vercel": "https://calculator-phi-swart-97.vercel.app/"
+      },
+      {
+        "id": 2,
+        "image": "",
+        "name": "Responsive Keyboard",
+        "description": "Responsive Keyboard made with HTML and CSS.",
+        "github": "https://github.com/Tashreeqlee/Keyboard.git",
+        "vercel": "https://keyboard-livid-nine.vercel.app/"
+      },
+      {
+        "id": 3,
+        "image": "",
+        "name": "E-commerce Website",
+        "description": "E-commerce website made with HTML and CSS.",
+        "github": "https://github.com/Tashreeqlee/eCommerce.git",
+        "vercel": "https://e-commerce-black-three.vercel.app/"
+      },
+      {
+        "id": 4,
+        "image": "",
+        "name": "RGB To Hex App",
+        "description": "RGB TO HEX App made using HTML,CSS and JavaScript.",
+        "github": "https://github.com/Tashreeqlee/RGBtohex.git",
+        "vercel": "https://rg-btohex-one.vercel.app/"
+      },
+      {
+        "id": 5,
+        "image": "",
+        "name": "Minutes To Seconds App",
+        "description": "Minutes to seconds app using HTML,CSS and JavaScript.",
+        "github": "https://github.com/Tashreeqlee/Minutestoseconds.git",
+        "vercel": "https://minutestoseconds.vercel.app/"
+      },
+      {
+        "id": 6,
+        "image": "",
+        "name": "Area Of Triangle App",
+        "description": "Area of Triangle App using HTML,CSS and JavaScript.",
+        "github": "https://github.com/Tashreeqlee/areaofTriangle.git",
+        "vercel": "https://areaof-triangle.vercel.app/"
+      }
+    ],
+    "testimonials": [
+      {
+        "id": 1,
+        "image": "",
+        "name": "Sipho Gcusa",
+        "message": "Tashreeq Lee is always willing to help out anyone in need, no matter how big or small the task may be. He is also reliable, dependable and very organized. On top of all that, he has a great sense of humor and an outgoing personality that makes him easy to get along with.",
+        "connection" : "Colleague"
+      },
+      {
+          "id": 3,
+          "image": "",
+          "name": "Caela Morgan Ward",
+          "message": "Tashreeq Lee is an incredibly hard worker, and always goes above and beyond to ensure that his duties are completed accurately and with the highest degree of quality.He is also a great communicator, always taking the time to explain complex concepts in a clear manner.",
+        "connection" : "Colleague"
+      },
+      {
+        "id": 4,
+        "image": "",
+        "name": "Damon Raffels",
+        "message": "Tashreeq is a dedicated individual with strong work ethics and exceptional people skills. He is approachable, always has a smile on his face and is always willing to help. He has a strong passion to develop himself and his skills as a developer and will be an asset to any workforce.",
+        "connection" : "Colleague"
+      },
+      {
+        "id": 5,
+        "image": "",
+        "name": "Jay-donn Hendricks",
+        "message": "Tashreeq Lee is a hardworking and dedicated team member who always puts the needs of the team first.He is always willing to lend a helping hand and provide support to his colleagues when needed.He is an excellent problem solver who consistently comes up with creative solutions to difficult problems.",
+        "connection" : "Colleague"
+      },
+      {
+          "id": 6,
+        "image": "",
+        "name": "Natasha Kapeyi",
+        "message": "Working with Tashreeq Lee has yielded positive outcomes, ensures that a task on hand is done effectively and a great deal of laughter, as he is a person who effortlessly interacts in with everyone. He has flawless interpersonal skills and can swiftly adjust to any environment.",
+        "connection" : "Colleague"
+    },
+    {
+      "id": 2,
+      "image": "",
+      "name": "Joel Mukanya",
+      "message": "Tashreeq is a creative, and well-behaved individual who always prioritizes his work. He excels in collaborating with others and has gained proficiency in HTML5, CSS, and Bootstrap. Including Git and GitHub.",
+      "connection" : "Lecturer"
+    }
     ]
-}
+  }

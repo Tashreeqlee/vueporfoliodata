@@ -2,13 +2,13 @@
     "education": [
       {
         "id": "1",
-        "date": "2023-Present",
+        "date": "2023 - Present",
         "description": "Started at Life Choices to conquer this new journey in coding",
         "name": "Life Choices Coding Academy"
       },
       {
         "id": "2",
-        "date": "2022-Present",
+        "date": "2022 - Present",
         "description": "Start my coding journey in my freetime to learn new things that interested me",
         "name": "Free Code Camp"
       },
@@ -25,21 +25,21 @@
         "jobTitle": "Sales Intern",
         "company": "Hyundai",
         "description": "Intern at Hyundai as a Sales Intern",
-        "date": "July 2021- July 2022"
+        "date": "July 2021 - July 2022"
       },
       {
         "id": 2,
         "jobTitle": "Parts Intern",
         "company": "Hyundai",
         "description": "Intern at Hyundai as a Parts Sale Intern",
-        "date": "July 2021- July 2022"
+        "date": "July 2021 - July 2022"
       },
       {
         "id": 3,
         "jobTitle": "Service Advisor Intern",
         "company": "Hyundai",
         "description": "Intern at Hyundai as a Service Advisor Intern",
-        "date": "July 2021- July 2022"
+        "date": "July 2021 - July 2022"
       },
       {
         "id": 4,

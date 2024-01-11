@@ -3,19 +3,19 @@
       {
         "id": "1",
         "date": "2023 - Present",
-        "description": "Started at Life Choices to conquer this new journey in coding",
+        "description": "Started at Life Choices to conquer this new journey in coding and to learn something new everyday.",
         "name": "Life Choices Coding Academy"
       },
       {
         "id": "2",
         "date": "2022 - Present",
-        "description": "Start my coding journey in my freetime to learn new things that interested me",
+        "description": "Started my coding journey in my freetime to learn new things that interested me.",
         "name": "Free Code Camp"
       },
       {
         "id": "3",
         "date": "2015 - 2020",
-        "description": "Completed Matric in 2020 with a Bachelors Degree",
+        "description": "Completed Matric in 2020 with a Bachelors Degree.",
         "name": "Alexander Sinton High School"
       }
     ],
@@ -24,28 +24,28 @@
         "id": 1,
         "jobTitle": "Sales Intern",
         "company": "Hyundai",
-        "description": "Intern at Hyundai as a Sales Intern",
+        "description": "Intern at Hyundai as a Sales Intern.",
         "date": "July 2021 - July 2022"
       },
       {
         "id": 2,
         "jobTitle": "Parts Intern",
         "company": "Hyundai",
-        "description": "Intern at Hyundai as a Parts Sale Intern",
+        "description": "Intern at Hyundai as a Parts Sale Intern.",
         "date": "July 2021 - July 2022"
       },
       {
         "id": 3,
         "jobTitle": "Service Advisor Intern",
         "company": "Hyundai",
-        "description": "Intern at Hyundai as a Service Advisor Intern",
+        "description": "Intern at Hyundai as a Service Advisor Intern.",
         "date": "July 2021 - July 2022"
       },
       {
         "id": 4,
         "jobTitle": "Events Manager Assistant",
         "company": "Radisson Red",
-        "description": "Assisting manager handle big events",
+        "description": "Assisting manager handle big events.",
         "date": "December 2023 - Present"
       }
     ],

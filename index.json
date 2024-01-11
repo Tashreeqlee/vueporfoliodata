@@ -102,7 +102,7 @@
     "testimonials": [
       {
         "id": 1,
-        "image": "",
+        "image": "https://cdn-thumbs.imagevenue.com/00/e7/34/ME17GJ7G_t.jpg",
         "name": "Sipho Gcusa",
         "message": "Tashreeq Lee is always willing to help out anyone in need, no matter how big or small the task may be. He is also reliable, dependable and very organized. On top of all that, he has a great sense of humor and an outgoing personality that makes him easy to get along with.",
         "connection" : "Colleague"
@@ -116,28 +116,28 @@
       },
       {
         "id": 4,
-        "image": "",
+        "image": "https://cdn-thumbs.imagevenue.com/71/fc/a8/ME17GJ7K_t.jpg",
         "name": "Damon Raffels",
         "message": "Tashreeq is a dedicated individual with strong work ethics and exceptional people skills. He is approachable, always has a smile on his face and is always willing to help. He has a strong passion to develop himself and his skills as a developer and will be an asset to any workforce.",
         "connection" : "Colleague"
       },
       {
         "id": 5,
-        "image": "",
+        "image": "https://cdn-thumbs.imagevenue.com/3a/17/36/ME17GJ7E_t.jpg",
         "name": "Jay-donn Hendricks",
         "message": "Tashreeq Lee is a hardworking and dedicated team member who always puts the needs of the team first.He is always willing to lend a helping hand and provide support to his colleagues when needed.He is an excellent problem solver who consistently comes up with creative solutions to difficult problems.",
         "connection" : "Colleague"
       },
       {
           "id": 6,
-        "image": "",
+        "image": "https://cdn-thumbs.imagevenue.com/8b/3c/a6/ME17GJ7I_t.jpg",
         "name": "Natasha Kapeyi",
         "message": "Working with Tashreeq Lee has yielded positive outcomes, ensures that a task on hand is done effectively and a great deal of laughter, as he is a person who effortlessly interacts in with everyone. He has flawless interpersonal skills and can swiftly adjust to any environment.",
         "connection" : "Colleague"
     },
     {
       "id": 2,
-      "image": "",
+      "image": "https://cdn-thumbs.imagevenue.com/6e/a1/8f/ME17GJ7C_t.jpg",
       "name": "Joel Mukanya",
       "message": "Tashreeq is a creative, and well-behaved individual who always prioritizes his work. He excels in collaborating with others and has gained proficiency in HTML5, CSS, and Bootstrap. Including Git and GitHub.",
       "connection" : "Lecturer"
